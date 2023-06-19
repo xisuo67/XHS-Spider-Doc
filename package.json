@@ -7,6 +7,7 @@
     "dev": "vitepress dev docs --port 8800",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs",
+    "deploy": "./deploy.sh",
     "test": "echo \"Error: no test specified\" && exit 1",
     "install:pkg": "npm install --registry https://registry.npmmirror.com"
   },
