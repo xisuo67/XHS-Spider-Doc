@@ -11,8 +11,8 @@
 > XHS-Spider是一款小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（主要用于批量下载，视频提取，图片，去水印等）
 
 <h1 align="center">XHS.Spider颜值超高的数据采集工具</h1>
-
 <div align="center">
+<iframe src="//player.bilibili.com/player.html?aid=529984366&bvid=BV1Wu411a7F7&cid=1166491270&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 600px;"></iframe>
     <p align="center">
     <a href="https://github.com/xisuo67/XHS-Spider/stargazers" style="text-decoration:none" >
         <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xisuo67/XHS-Spider">
@@ -59,3 +59,7 @@ XHS.Spider是一款颜值超高的小红书数据采集工具
 ### 关于 PR
 
 > 希望您在开发过程中如果遇到 bug 且修复后，能及时提交您的 PR 至`Github master分支`供我们改进项目。在提交 pull request 之前，尽可能详细描述问题以方便审核。非常感谢！
+
+### 关于采集条数
+
+> 这个我真不想写在这里，问题是问的人太多了！大哥，你们能扫码登录嘛？不登陆，你采集就只有10条啊，大哥！**扫码登录** **扫码登录** **扫码登录** 我真的要被逼疯了
