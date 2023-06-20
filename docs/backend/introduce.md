@@ -1,8 +1,49 @@
 # 简介
 
 ### 项目介绍
+<p align="center">
+  <a href="https://github.com/xisuo67/XHS-Spider">
+      <img src="https://ci.xiaohongshu.com/49fd555a-b46b-49fd-b5a5-053fb4a536dc">
+  </a>
+  <b style="font-size:32px;color:red">-Spider</b>
+</p>
 
-> 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）
+> XHS-Spider是一款小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（主要用于批量下载，视频提取，图片，去水印等）
+
+<h1 align="center">XHS.Spider颜值超高的数据采集工具</h1>
+
+<div align="center">
+    <p align="center">
+    <a href="https://github.com/xisuo67/XHS-Spider/stargazers" style="text-decoration:none" >
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xisuo67/XHS-Spider">
+    </a>
+    <a href="https://github.com/xisuo67/XHS-Spider/network" style="text-decoration:none" >
+        <img alt="GitHub forks" src="https://img.shields.io/github/forks/xisuo67/XHS-Spider">
+    </a>
+    <a href="https://github.com/xisuo67/XHS-Spider/issues" style="text-decoration:none">
+        <img alt="GitHub issues" src="https://img.shields.io/github/issues/xisuo67/XHS-Spider">
+    </a>
+    <a href="https://github.com/xisuo67/XHS-Spider/blob/main/LICENSE" style="text-decoration:none" >
+        <img alt="GitHub" src="https://img.shields.io/github/license/xisuo67/XHS-Spider">
+    </a>
+</p>
+XHS.Spider是一款颜值超高的小红书数据采集工具
+</div>
+
+<table>
+    <tr>
+        <td><img height="300px" width="500px" src="http://yfloves.cn/source/XHS1.png"/></td>
+        <td><img  height="300px" width="500px" src="http://yfloves.cn/source/XHS2.png"/></td>
+    </tr>
+        <tr>
+         <td><img  height="300px" width="500px" src="http://yfloves.cn/source/XHS3.png"/></td>
+          <td><img  height="300px" width="500px" src="http://yfloves.cn/source/XHS4.png"/></td>
+    </tr>
+        <tr>
+         <td><img  height="300px" width="500px" src="http://yfloves.cn/source/XHS5.png"/></td>
+        <td><img  height="300px" width="500px" src="http://yfloves.cn/source/XHS6.png"/></td>
+    </tr>
+</table>
 
 ### 环境说明
 - XHS-Spider目前仅支持windows操作系统，其他操作系统不支持
