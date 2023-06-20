@@ -13,11 +13,14 @@ hero:
     alt: XHS.Spider
   actions:
     - theme: brand
-      text: 立即上手
-      link: /backend/new-project
+      text: 下载软件
+      link: /backend/download
     - theme: alt
       text: 了解更多
       link: /backend/introduce
+    - theme: brand
+      text: View on Github
+      link: https://github.com/xisuo67/XHS-Spider
 features:
   - icon: 👷
     title: 匠心之作
