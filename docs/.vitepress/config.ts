@@ -166,7 +166,7 @@ export default withPwa(
           {
             text: '免责声明',
             collapsed: false,
-            items: [{ text: '郑重声明', link: '/backend/stated' }],
+            items: [{ text: '郑重声明', link: '/backend/stated' },{ text: '风险声明', link: '/backend/risk' }],
           },
           {
             text: '其它',
