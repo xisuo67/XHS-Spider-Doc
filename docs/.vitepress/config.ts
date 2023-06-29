@@ -93,7 +93,7 @@ export default withPwa(
       darkModeSwitchLabel: '外观',
       sidebarMenuLabel: '菜单',
       returnToTopLabel: '返回顶部',
-      outline: '../public',
+      outline: 'deep',
       lastUpdatedText: '上次更新',
       editLink: {
         pattern: 'https://github.com/xisuo67/XHS-Spider-Doc/edit/master/docs/:path',
