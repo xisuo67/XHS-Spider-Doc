@@ -12,6 +12,9 @@ jobs:
   build-and-deploy:
     # 服务器环境：最新版 Ubuntu
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     steps:
       # 拉取代码
       - name: Checkout
