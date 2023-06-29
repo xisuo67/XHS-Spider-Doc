@@ -61,7 +61,7 @@ export default withPwa(
     title: 'XHS.Spider颜值超高的数据采集工具',
     description: '🎉🎉🔥小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）',
     lang: 'zh-CN',
-    base: '/',
+    base: '/XHS-Spider-Doc/',
     lastUpdated: true,
     ignoreDeadLinks: true,
     cleanUrls: false,
@@ -93,7 +93,7 @@ export default withPwa(
       darkModeSwitchLabel: '外观',
       sidebarMenuLabel: '菜单',
       returnToTopLabel: '返回顶部',
-      outline: 'deep',
+      outline: '../public',
       lastUpdatedText: '上次更新',
       editLink: {
         pattern: 'https://github.com/xisuo67/XHS-Spider-Doc/edit/master/docs/:path',
