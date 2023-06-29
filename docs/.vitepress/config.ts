@@ -9,7 +9,7 @@ import mdItCustomAttrs from 'markdown-it-custom-attrs'
 export default withPwa(
   defineConfig({
     head: [
-      ['link', { rel: 'icon', href: '/favicon.ico' }],
+      ['link', { rel: 'icon', href: 'favicon.ico' }],
       [
         'meta',
         {
@@ -29,13 +29,13 @@ export default withPwa(
         'link',
         {
           rel: 'stylesheet',
-          href: '/fancybox/fancybox.css',
+          href: './fancybox/fancybox.css',
         },
       ],
       [
         'script',
         {
-          src: '/fancybox/fancybox.umd.js',
+          src: './fancybox/fancybox.umd.js',
         },
       ],
       // [
