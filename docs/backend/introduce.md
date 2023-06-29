@@ -32,16 +32,16 @@ XHS.Spider是一款颜值超高的小红书数据采集工具
 
 <table>
     <tr>
-        <td><img height="300px" width="500px" src="http://yfloves.cn/source/XHS1.png"/></td>
-        <td><img  height="300px" width="500px" src="http://yfloves.cn/source/XHS2.png"/></td>
+        <td><img height="300px" width="500px" src="/images/XHS1.png"/></td>
+        <td><img  height="300px" width="500px" src="/images/XHS2.png"/></td>
     </tr>
         <tr>
-         <td><img  height="300px" width="500px" src="http://yfloves.cn/source/XHS3.png"/></td>
-          <td><img  height="300px" width="500px" src="http://yfloves.cn/source/XHS4.png"/></td>
+         <td><img  height="300px" width="500px" src="/images/XHS3.png"/></td>
+          <td><img  height="300px" width="500px" src="/images/XHS4.png"/></td>
     </tr>
         <tr>
-         <td><img  height="300px" width="500px" src="http://yfloves.cn/source/XHS5.png"/></td>
-        <td><img  height="300px" width="500px" src="http://yfloves.cn/source/XHS6.png"/></td>
+         <td><img  height="300px" width="500px" src="/images/XHS5.png"/></td>
+        <td><img  height="300px" width="500px" src="/images/XHS6.png"/></td>
     </tr>
 </table>
 
