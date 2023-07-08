@@ -9,7 +9,7 @@ hero:
   text: 颜值超高的数据采集工具
   tagline: 简单、快速、强大
   image:
-    src: /images/auth.png
+    src: /images/Xhs.Spider.png
     alt: XHS.Spider
   actions:
     - theme: brand
