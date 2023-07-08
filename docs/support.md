@@ -27,7 +27,7 @@
 
 ## ✨特别感谢
 
-特别感谢群友**SHUBIHAOHAO** 为XHS-Spider设置的首页图片
+特别感谢群友**SHUBIHAOHAO** 为XHS-Spider设计的首页图片
 
 ## 💕 捐赠名单
 
