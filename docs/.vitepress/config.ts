@@ -14,7 +14,7 @@ export default withPwa(
         'meta',
         {
           name: 'keywords',
-          content: 'doc、XHS、xhs-spider-doc、xhs、spider、xisuo67、爬虫、小红书、数据采集',
+          content: 'XHS、XHS.Spider、xhs.spider、xhs-spider-doc、xhs、spider、xisuo67、爬虫、小红书数据采集',
         },
       ],
       [
