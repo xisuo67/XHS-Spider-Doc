@@ -12,8 +12,8 @@
 
 <h1 align="center">XHS.Spider颜值超高的数据采集工具</h1>
 <div align="center">
-<iframe src="//player.bilibili.com/player.html?aid=529984366&bvid=BV1Wu411a7F7&cid=1166491270&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 600px;"></iframe>
-    <p align="center">
+<!-- <iframe src="//player.bilibili.com/player.html?aid=529984366&bvid=BV1Wu411a7F7&cid=1166491270&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 600px;"></iframe> -->
+    <!-- <p align="center">
     <a href="https://github.com/xisuo67/XHS-Spider/stargazers" style="text-decoration:none" >
         <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xisuo67/XHS-Spider">
     </a>
@@ -26,8 +26,8 @@
     <a href="https://github.com/xisuo67/XHS-Spider/blob/main/LICENSE" style="text-decoration:none" >
         <img alt="GitHub" src="https://img.shields.io/github/license/xisuo67/XHS-Spider">
     </a>
-</p>
-XHS.Spider是一款颜值超高的小红书数据采集工具
+</p> -->
+XHS.Spider目前已闭源
 </div>
 
 <table>
@@ -45,7 +45,7 @@ XHS.Spider是一款颜值超高的小红书数据采集工具
     </tr>
 </table>
 
-### 环境说明
+<!-- ### 环境说明
 - XHS-Spider目前仅支持windows操作系统，其他操作系统不支持
 - XHS-Spider依托于.Net 6.0开发完成，这意味着你需要安装.Net 6.0运行时才能运行它，如果你的环境没有安装该运行时,启动XHS-Spider会提示异常信息。
   - 如何安装运行时，请查看[运行说明](https://github.com/xisuo67/XHS-Spider/wiki/XHS-Spider)相关文档。
@@ -54,12 +54,12 @@ XHS.Spider是一款颜值超高的小红书数据采集工具
 - 如果根据上述内容安装完运行时后程序闪退，请尝试[下载webview2运行时](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section)
 - 功能预览
   - [使用教程](https://www.bilibili.com/video/BV1Wu411a7F7/?share_source=copy_web&vd_source=1a333f5d2534a06b72faea21fa2f10d4)
-  - [bilibili](https://www.bilibili.com/video/BV1UW4y1R7GE/?vd_source=e2562a684d381def8f9af230a7396690)
+  - [bilibili](https://www.bilibili.com/video/BV1UW4y1R7GE/?vd_source=e2562a684d381def8f9af230a7396690) -->
 
-### 关于 PR
+<!-- ### 关于 PR
 
-> 希望您在开发过程中如果遇到 bug 且修复后，能及时提交您的 PR 至`Github master分支`供我们改进项目。在提交 pull request 之前，尽可能详细描述问题以方便审核。非常感谢！
+> 希望您在开发过程中如果遇到 bug 且修复后，能及时提交您的 PR 至`Github master分支`供我们改进项目。在提交 pull request 之前，尽可能详细描述问题以方便审核。非常感谢！ -->
 
-### 关于采集条数
+### 关于闭源
 
-> 这个我真不想写在这里，问题是问的人太多了！大哥，你们能扫码登录嘛？不登陆，你采集就只有10条啊，大哥！**扫码登录** **扫码登录** **扫码登录** 我真的要被逼疯了
+> 为什么闭源了，一夜之间删除所有视频？国内开源环境太糟糕，所实话，4月底开源至7月12号，短短三个月，star接近600的项目，说闭源就闭源，我也是很心疼的。但太多人用着作者的工具，却拿来当付费资源，甚至一度连作者都改了。失望了，不想开源了！

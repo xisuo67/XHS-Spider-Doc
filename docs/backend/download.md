@@ -1,8 +1,9 @@
 # 软件下载
 
 ### 下载地址
+   > 暂时没有下载地址了
 
-<p align="left">
+<!-- <p align="left">
     <a href="https://github.com/xisuo67/XHS-Spider/releases/latest" style="text-decoration:none">
        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/xisuo67/XHS-Spider">
     </a>
@@ -26,5 +27,5 @@
 dotnet build --configuration Release -p:Version=x.x.x.x
 ```
 
-> 其中x为版本号
+> 其中x为版本号 -->
 

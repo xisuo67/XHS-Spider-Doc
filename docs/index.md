@@ -7,20 +7,20 @@ titleTemplate: XHS.Spider颜值超高的数据采集工具
 hero:
   name: XHS.Spider
   text: 颜值超高的数据采集工具
-  tagline: 简单、快速、强大
+  tagline: 已闭源、已闭源、已闭源
   image:
     src: /images/Xhs.Spider.png
     alt: XHS.Spider
   actions:
-    - theme: brand
-      text: 下载软件
-      link: /backend/download
+    # - theme: brand
+    #   text: 下载软件
+    #   link: /backend/download
     - theme: alt
       text: 了解更多
       link: /backend/introduce
-    - theme: brand
-      text: View on Github
-      link: https://github.com/xisuo67/XHS-Spider
+    # - theme: brand
+    #   text: View on Github
+    #   link: https://github.com/xisuo67/XHS-Spider
 features:
   - icon: 👷
     title: 匠心之作
@@ -29,6 +29,6 @@ features:
     title: 功能
     details: 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）
   - icon: 💪
-    title: 终生免费
-    details: 开源工具，终生免费
+    title: 通知
+    details: 目前工具已闭源，暂时不打算开源
 ---
