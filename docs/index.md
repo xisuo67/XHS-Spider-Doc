@@ -12,9 +12,9 @@ hero:
     src: /images/Xhs.Spider.png
     alt: XHS.Spider
   actions:
-    # - theme: brand
-    #   text: 下载软件
-    #   link: /backend/download
+    - theme: brand
+      text: 下载软件
+      link: /backend/download
     - theme: alt
       text: 了解更多
       link: /backend/introduce
@@ -28,7 +28,7 @@ features:
   - icon: 🚀
     title: 功能
     details: 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）
-  - icon: 💪
+  - icon: 🔊
     title: 通知
-    details: 目前工具已闭源，暂时不打算开源
+    details: 由于各种原因，程序采用授权文件机制，目前工具已闭源。
 ---
