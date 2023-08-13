@@ -9,12 +9,12 @@ import mdItCustomAttrs from 'markdown-it-custom-attrs'
 export default withPwa(
   defineConfig({
     head: [
-      ['link', { rel: 'icon', href: '/favicon.ico' }],
+      ['link', { rel: 'icon', href: '/XHS-Spider-Doc/favicon.ico' }],
       [
         'meta',
         {
           name: 'keywords',
-          content: 'doc、XHS、xhs-spider-doc、xhs、spider、xisuo67、爬虫、小红书、数据采集',
+          content: 'XHS、XHS.Spider、xhs.spider、xhs-spider-doc、xhs、spider、xisuo67、爬虫、小红书数据采集',
         },
       ],
       [
@@ -29,13 +29,13 @@ export default withPwa(
         'link',
         {
           rel: 'stylesheet',
-          href: '/fancybox/fancybox.css',
+          href: '/XHS-Spider-Doc/fancybox/fancybox.css',
         },
       ],
       [
         'script',
         {
-          src: '/fancybox/fancybox.umd.js',
+          src: '/XHS-Spider-Doc/fancybox/fancybox.umd.js',
         },
       ],
       // [
@@ -61,7 +61,7 @@ export default withPwa(
     title: 'XHS.Spider颜值超高的数据采集工具',
     description: '🎉🎉🔥小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）',
     lang: 'zh-CN',
-    base: '/',
+    base: '/XHS-Spider-Doc/',
     lastUpdated: true,
     ignoreDeadLinks: true,
     cleanUrls: false,
@@ -111,7 +111,7 @@ export default withPwa(
       nav: [
         { text: '文档', link: '/backend/introduce', activeMatch: '/backend/' },
         {
-          text: '下载 & 源码',
+          text: '下载 & 授权',
           items: [
             {
               text: '🥦 下载',
@@ -123,11 +123,11 @@ export default withPwa(
               ],
             },
             {
-              text: '🏠 github源码地址',
+              text: '🏠 授权管理',
               items: [
                 {
-                  text: 'XHS-Spider(master分支最新)',
-                  link: 'https://github.com/xisuo67/XHS-Spider',
+                  text: '申请授权',
+                  link: 'http://xisuo67.system.yfloves.cn/',
                 },
               ],
             }
@@ -158,6 +158,8 @@ export default withPwa(
             text: '起步',
             collapsed: false,
             items: [
+              {text:'特别说明',link: '/backend/illustrate' },
+              {text:'授权管理',link: '/backend/licensesDoc' },
               { text: '简介', link: '/backend/introduce' },
               { text: '软件下载', link: '/backend/download' },
               { text: 'bug反馈 & 功能建议', link: '/backend/new-BugOrFunction' },
@@ -166,7 +168,7 @@ export default withPwa(
           {
             text: '免责声明',
             collapsed: false,
-            items: [{ text: '郑重声明', link: '/backend/stated' }],
+            items: [{ text: '郑重声明', link: '/backend/stated' },{ text: '风险声明', link: '/backend/risk' }],
           },
           {
             text: '其它',

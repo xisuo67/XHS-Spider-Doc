@@ -29,7 +29,10 @@
 img {
   display: inline-block;
 }
-
+.VPImage{
+  max-width: 720px !important;
+  max-height: 720px !important;
+}
 .my-img {
   display: inline-block;
   border: 1px solid var(--vp-c-brand);

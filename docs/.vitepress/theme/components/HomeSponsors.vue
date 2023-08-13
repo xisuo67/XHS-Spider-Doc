@@ -6,7 +6,6 @@ const data = [
     tier: '长期赞助商',
     size: 'big',
     items: [
-
     ],
   },
 ]
