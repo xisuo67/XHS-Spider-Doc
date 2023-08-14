@@ -7,7 +7,6 @@
   </a>
   <b style="font-size:32px;color:red">-Spider</b>
 </p>
-
 > XHS-Spider是一款小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（主要用于批量下载，视频提取，图片，去水印等）
 
 <h1 align="center">XHS.Spider颜值超高的数据采集工具</h1>
