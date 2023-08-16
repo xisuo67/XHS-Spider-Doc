@@ -12,38 +12,24 @@
 
 <h1 align="center">XHS.Spider颜值超高的数据采集工具</h1>
 <div align="center">
-<!-- <iframe src="//player.bilibili.com/player.html?aid=529984366&bvid=BV1Wu411a7F7&cid=1166491270&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 600px;"></iframe> -->
-    <!-- <p align="center">
-    <a href="https://github.com/xisuo67/XHS-Spider/stargazers" style="text-decoration:none" >
+<iframe src="//player.bilibili.com/player.html?aid=617290547&bvid=BV1k84y1f7Rg&cid=1235257523&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 600px;"> </iframe>
+    <p align="center">
+    <a href="https://github.com/xisuo67/XHS-Spider/stargazers" style="text-decoration:none;margin-right: 4px;" >
         <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xisuo67/XHS-Spider">
     </a>
-    <a href="https://github.com/xisuo67/XHS-Spider/network" style="text-decoration:none" >
+    <a href="https://github.com/xisuo67/XHS-Spider/network" style="text-decoration:none;margin-right: 4px;" >
         <img alt="GitHub forks" src="https://img.shields.io/github/forks/xisuo67/XHS-Spider">
     </a>
-    <a href="https://github.com/xisuo67/XHS-Spider/issues" style="text-decoration:none">
+    <a href="https://github.com/xisuo67/XHS-Spider/issues" style="text-decoration:none;margin-right: 4px;">
         <img alt="GitHub issues" src="https://img.shields.io/github/issues/xisuo67/XHS-Spider">
     </a>
-    <a href="https://github.com/xisuo67/XHS-Spider/blob/main/LICENSE" style="text-decoration:none" >
+    <a href="https://github.com/xisuo67/XHS-Spider/blob/main/LICENSE" style="text-decoration:none;margin-right: 4px;" >
         <img alt="GitHub" src="https://img.shields.io/github/license/xisuo67/XHS-Spider">
     </a>
-</p> -->
+</p>
 XHS.Spider目前已闭源
 </div>
 
-<table>
-    <tr>
-        <td><img height="300px" width="500px" src="/images/XHS1.png"/></td>
-        <td><img  height="300px" width="500px" src="/images/XHS2.png"/></td>
-    </tr>
-        <tr>
-         <td><img  height="300px" width="500px" src="/images/XHS3.png"/></td>
-          <td><img  height="300px" width="500px" src="/images/XHS4.png"/></td>
-    </tr>
-        <tr>
-         <td><img  height="300px" width="500px" src="/images/XHS5.png"/></td>
-        <td><img  height="300px" width="500px" src="/images/XHS6.png"/></td>
-    </tr>
-</table>
 
 <!-- ### 环境说明
 - XHS-Spider目前仅支持windows操作系统，其他操作系统不支持
