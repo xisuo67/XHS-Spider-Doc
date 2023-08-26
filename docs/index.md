@@ -7,7 +7,7 @@ titleTemplate: XHS.Spider颜值超高的数据采集工具
 hero:
   name: XHS.Spider
   text: 颜值超高的数据采集工具
-  tagline: 已闭源、已闭源、已闭源
+  tagline: The ocean is not a Japanese garbage can,We will resolutely resist Japan's discharge of nuclear wastewater.Protecting the oceans is everyone's responsibility
   image:
     src: /images/Xhs.Spider.png
     alt: XHS.Spider

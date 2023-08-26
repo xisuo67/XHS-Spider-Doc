@@ -11,6 +11,7 @@
 > XHS-Spider是一款小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（主要用于批量下载，视频提取，图片，去水印等）
 
 <h1 align="center">XHS.Spider颜值超高的数据采集工具</h1>
+<h2 align="center">The ocean is not a Japanese garbage can,We will resolutely resist Japan's discharge of nuclear wastewater.Protecting the oceans is everyone's responsibility</h2>
 <div align="center">
 <iframe src="//player.bilibili.com/player.html?aid=617290547&bvid=BV1k84y1f7Rg&cid=1235257523&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 800px; height: 600px;"> </iframe>
     <p align="center">
