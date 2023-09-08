@@ -160,6 +160,7 @@ export default withPwa(
             items: [
               { text:'特别说明',link: '/backend/illustrate' },
               { text:'授权管理',link: '/backend/licensesDoc' },
+              { text:'系统设置',link: '/backend/setting'},
               { text: '简介', link: '/backend/introduce' },
               { text: '软件下载', link: '/backend/download' },
               { text: 'bug反馈 & 功能建议', link: '/backend/new-BugOrFunction' },
