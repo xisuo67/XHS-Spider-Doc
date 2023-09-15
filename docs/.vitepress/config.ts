@@ -122,7 +122,7 @@ export default withPwa(
                 },
                 {
                   text: 'XHS.Spider下载(国内下载地址)',
-                  link: 'http://yfloves.cn:8000/updates/XHS.Spider.zip',
+                  link: 'http://yfloves.cn:8000/updates/XHS-Spider.zip',
                 },
               ],
             },
