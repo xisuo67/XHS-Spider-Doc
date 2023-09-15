@@ -30,8 +30,8 @@ img {
   display: inline-block;
 }
 .VPImage{
-  max-width: 720px !important;
-  max-height: 720px !important;
+  max-width: 520px !important;
+  max-height: 520px !important;
 }
 .my-img {
   display: inline-block;
