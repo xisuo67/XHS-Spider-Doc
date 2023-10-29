@@ -164,11 +164,21 @@ export default withPwa(
             items: [
               { text:'特别说明',link: '/backend/illustrate' },
               { text:'授权管理',link: '/backend/licensesDoc' },
-              { text:'系统设置',link: '/backend/setting'},
               { text: '简介', link: '/backend/introduce' },
               { text: '软件下载', link: '/backend/download' },
               { text: 'bug反馈 & 功能建议', link: '/backend/new-BugOrFunction' },
             ],
+          },
+          {
+            text: '系统功能',
+            collapsed: false,
+            items: [
+            { text: '首页', link: '/backend/system/home' },
+            { text: '搜索', link: '/backend/system/search' },
+            { text: '关注', link: '/backend/system/follow' },
+            { text: '批量导入', link: '/backend/system/import' },
+            { text: '设置', link: '/backend/system/setting' },
+          ],
           },
           {
             text: '免责声明',
