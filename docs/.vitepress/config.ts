@@ -121,6 +121,10 @@ export default withPwa(
                   link: 'https://github.com/xisuo67/XHS-Spider/releases',
                 },
                 {
+                  text: 'XHS.Spider下载(gitee)',
+                  link: 'https://gitee.com/chuyia/XHS-Spider/releases',
+                },
+                {
                   text: 'XHS.Spider下载(国内下载地址)',
                   link: 'http://yfloves.cn:8000/updates/XHS-Spider.zip',
                 },

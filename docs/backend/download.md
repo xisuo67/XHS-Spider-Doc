@@ -15,9 +15,12 @@
     </a>
 </p>
 
-[全网唯一下载地址](https://github.com/xisuo67/XHS-Spider/releases)
+[全网唯一下载地址(github)](https://github.com/xisuo67/XHS-Spider/releases)
 
 > 若以上下载地址无法打开，请尝试国内下载地址
+
+
+[国内下载地址(gitee)](https://gitee.com/chuyia/XHS-Spider/releases)
 
 [国内下载地址](http://yfloves.cn:8000/updates/XHS.Spider.zip)
 
