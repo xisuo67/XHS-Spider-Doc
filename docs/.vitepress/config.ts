@@ -14,14 +14,14 @@ export default withPwa(
         'meta',
         {
           name: 'keywords',
-          content: 'XHS、XHS.Spider、xhs.spider、xhs-spider-doc、xhs、spider、xisuo67、爬虫、小红书数据采集',
+          content: '小红书数据采集,批量下载,搬运,二创,去水印,小红书,数据采集,XHS,XHS.Spider',
         },
       ],
       [
         'meta',
         {
           name: 'description',
-          content: '🎉🎉🔥小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）',
+          content: '小红书数据采集,网站图片,搬运,二创,视频资源批量下载工具,颜值超高的数据采集工具（批量下载,视频提取,图片,去水印等）',
         },
       ],
       //https://www.jsdelivr.com/package/npm/@fancyapps/ui
@@ -59,7 +59,7 @@ export default withPwa(
       },
     },
     title: 'XHS.Spider颜值超高的数据采集工具',
-    description: '🎉🎉🔥小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）',
+    description: '小红书数据采集,小红书,数据采集,搬运,二创,批量下载,网站图片,视频资源批量下载工具,颜值超高的数据采集工具（批量下载,视频提取,图片,去水印等）',
     lang: 'zh-CN',
     base: '/XHS-Spider-Doc/',
     lastUpdated: true,
