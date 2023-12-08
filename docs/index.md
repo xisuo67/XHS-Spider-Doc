@@ -2,11 +2,11 @@
 layout: home
 
 # title: xhs-spider
-titleTemplate: XHS.Spider颜值超高的数据采集工具
+titleTemplate: 小红书数据采集工具
 
 hero:
   name: XHS.Spider
-  text: 颜值超高的数据采集工具
+  text: 小红书数据采集工具
   tagline: The ocean is not Japan's trash can, and we will firmly resist Japan's discharge of nuclear wastewater.  Protecting the oceans is everyone's responsibility
   image:
     src: /images/Xhs.Spider.png

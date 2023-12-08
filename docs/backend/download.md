@@ -19,10 +19,7 @@
 
 > 若以上下载地址无法打开，请尝试国内下载地址
 
-
-[国内下载地址(gitee)](https://gitee.com/chuyia/XHS-Spider/releases)
-
-[国内下载地址](http://yfloves.cn:8000/updates/XHS.Spider.zip)
+[国内下载地址](http://yfloves.cn:8000/updates/XHS-Spider.zip)
 
 ### 程序更新
 

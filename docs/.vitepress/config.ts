@@ -100,7 +100,7 @@ export default withPwa(
         text: '在 github 上编辑此页',
       },
       footer: {
-        // message: '',
+        message: '友情链接<a href="https://www.yuanxuegu.com/" target="_blank" rel="nofollow" style="color:var(--vp-c-brand-light);white-space: nowrap;">猿学谷</a>',
         copyright:
           'MIT Licensed | Copyright © 2023-xisuo67 <a href="https://github.com/xisuo67/" target="_blank" rel="nofollow" style="color:var(--vp-c-brand-light);white-space: nowrap;">鄂ICP备17022556号-1</a>',
       },
@@ -120,13 +120,13 @@ export default withPwa(
                   text: 'XHS.Spider下载(github)',
                   link: 'https://github.com/xisuo67/XHS-Spider/releases',
                 },
-                {
-                  text: 'XHS.Spider下载(gitee)',
-                  link: 'https://gitee.com/chuyia/XHS-Spider/releases',
-                },
+                // {
+                //   text: 'XHS.Spider下载(gitee)',
+                //   link: 'https://gitee.com/chuyia/XHS-Spider/releases',
+                // },
                 {
                   text: 'XHS.Spider下载(国内下载地址)',
-                  link: 'http://yfloves.cn:8000/updates/XHS-Spider.zip',
+                  link: '/backend/download', activeMatch: '/backend/'
                 },
               ],
             },
