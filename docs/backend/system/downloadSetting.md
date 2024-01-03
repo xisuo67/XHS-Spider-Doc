@@ -1,6 +1,6 @@
 # 下载服务设置
 
-> 此篇主要用于详细讲述XHS.Spider下载服务设置
+> 此篇主要用于详细讲述XHS.Spider下载服务设置,**目前仅小红兔授权支持使用该功能**
 
 <img src="/images/downloadSetting.png"/>
 
