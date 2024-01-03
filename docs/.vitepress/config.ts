@@ -182,6 +182,7 @@ export default withPwa(
             { text: '关注', link: '/backend/system/follow' },
             { text: '批量导入', link: '/backend/system/import' },
             { text: '设置', link: '/backend/system/setting' },
+            { text: '下载服务设置', link: '/backend/system/downloadSetting' },
           ],
           },
           {
