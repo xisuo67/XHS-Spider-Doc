@@ -19,7 +19,11 @@
 
 > 若以上下载地址无法打开，请尝试国内下载地址
 
-[国内下载地址](http://yfloves.cn:8000/updates/XHS-Spider.zip)
+``
+若以上链接无法访问，可关注公众号后，回复"XHS.Spider"，即可获得国内下载地址
+``
+
+<img src="/images/qrcode_for_gh.jpg"/>
 
 ### 程序更新
 
