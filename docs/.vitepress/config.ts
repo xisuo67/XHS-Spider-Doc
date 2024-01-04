@@ -126,7 +126,7 @@ export default withPwa(
                 // },
                 {
                   text: 'XHS.Spider下载(国内下载地址)',
-                  link: '/backend/download', activeMatch: '/backend/'
+                  link: '/backend/download'
                 },
               ],
             },
@@ -135,7 +135,7 @@ export default withPwa(
               items: [
                 {
                   text: '申请授权',
-                  link: 'http://xisuo67.system.yfloves.cn/',
+                  link: '/backend/licensesDoc',
                 },
               ],
             }

@@ -17,8 +17,6 @@
 
 [全网唯一下载地址(github)](https://github.com/xisuo67/XHS-Spider/releases)
 
-> 若以上下载地址无法打开，请尝试国内下载地址
-
 ``
 若以上链接无法访问，可关注公众号后，回复"XHS.Spider"，即可获得国内下载地址
 ``
