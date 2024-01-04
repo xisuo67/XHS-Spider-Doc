@@ -1,5 +1,9 @@
 # 下载服务设置
 
+## 功能展示
+
+<iframe src="//player.bilibili.com/player.html?aid=325815365&bvid=BV1Dw41137yq&cid=1393509655&p=1"  height="400px" width="800px" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 > 此篇主要用于详细讲述XHS.Spider下载服务设置,**目前仅小红兔授权支持使用该功能**
 
 <img src="/images/downloadSetting.png"/>
