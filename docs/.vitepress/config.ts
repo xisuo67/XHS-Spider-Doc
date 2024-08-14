@@ -182,6 +182,7 @@ export default withPwa(
             { text: '搜索', link: '/backend/system/search' },
             { text: '关注', link: '/backend/system/follow' },
             { text: '批量导入', link: '/backend/system/import' },
+            { text: '采集评论', link: '/backend/system/comment' },
             { text: '设置', link: '/backend/system/setting' },
             { text: '下载服务设置', link: '/backend/system/downloadSetting' },
           ],
