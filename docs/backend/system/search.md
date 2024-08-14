@@ -17,6 +17,8 @@
 
 博主集合：https://www.xiaohongshu.com/user/profile/63886571000000002401564f
 
+短链接：http://xhslink.com/HovcfT
+
 若不满足以上格式，导致无法解析笔记，请自行排查是否链接格式有误
 :::
 
