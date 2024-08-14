@@ -109,7 +109,7 @@ export default withPwa(
         next: '下一页',
       },
       nav: [
-        { text: '文档', link: '/backend/illustrate', activeMatch: '/backend/' },
+        { text: '文档', link: '/backend/introduce', activeMatch: '/backend/' },
         {
           text: '下载 & 授权',
           items: [
@@ -166,9 +166,10 @@ export default withPwa(
             text: '起步',
             collapsed: false,
             items: [
+              { text: '简介', link: '/backend/introduce' },
+              { text:'环境安装',link: '/backend/install' },
               { text:'特别说明',link: '/backend/illustrate' },
               { text:'授权管理',link: '/backend/licensesDoc' },
-              { text: '简介', link: '/backend/introduce' },
               { text: '软件下载', link: '/backend/download' },
               { text: 'bug反馈 & 功能建议', link: '/backend/new-BugOrFunction' },
             ],

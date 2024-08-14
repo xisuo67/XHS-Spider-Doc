@@ -7,7 +7,7 @@ titleTemplate: 小红书数据采集工具
 hero:
   name: XHS.Spider
   text: 小红书数据采集工具
-  tagline: The ocean is not Japan's trash can, and we will firmly resist Japan's discharge of nuclear wastewater.  Protecting the oceans is everyone's responsibility
+  tagline: 请尊重作者，认真仔细的阅读完文档，不要张嘴就问，不要张嘴就问，不要张嘴就问，文档能解决90%的问题
   image:
     src: /images/Xhs.Spider.png
     alt: XHS.Spider
@@ -18,9 +18,9 @@ hero:
     - theme: alt
       text: 了解更多
       link: /backend/introduce
-    # - theme: brand
-    #   text: View on Github
-    #   link: https://github.com/xisuo67/XHS-Spider
+    - theme: brand
+      text: Github
+      link: https://github.com/xisuo67/XHS-Spider
 features:
   - icon: 👷
     title: 匠心之作
