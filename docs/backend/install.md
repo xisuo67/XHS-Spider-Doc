@@ -2,8 +2,9 @@
 ### 环境说明
 - **XHS-Spider目前仅支持windows操作系统，其他操作系统不支持**
 - XHS-Spider依托于.Net 6.0开发完成，这意味着你需要安装.Net 6.0运行时才能运行它，如果你的环境没有安装该运行时,启动XHS-Spider会提示异常信息。
-  - 如果你的环境没有.Net 6.0运行时，请移步至[微软官方](https://dotnet.microsoft.com/zh-cn/download/dotnet)下载[.NET 6.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)运行时环境，下载完成后，启动项目即可顺利运行
-
+  - 如果你的环境没有.Net 6.0运行时，请移步至[微软官方](https://dotnet.microsoft.com/zh-cn/download/dotnet)下载[.NET 6.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)运行时环境
+- 下载C++运行环境，[微软官方](https://learn.microsoft.com/zh-cn/cpp/windows/latest-supported-vc-redist?view=msvc-170)，请根据自己电脑下载对应运行时，下载下载完成后，启动项目即可顺利运行
+<img src="/images/vcruntime.png"/>
 - 如果上述内容安装完运行时后程序闪退，请尝试[下载webview2运行时](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section)
 
 ### 补充说明
